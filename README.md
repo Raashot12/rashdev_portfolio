@@ -1,9 +1,7 @@
-# one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+# one-page-portfolio website-html-css-and little of Javascript.
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
-<b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
+<b>coded by [Rasheed](https://github.com/shaifarfan)</b>
 ### 👍 HAVE FUN 👍
-Thanks, Arfan
+Thanks, Rasheed Akanni
 
 ![Watch Now](./img/Design.jpg)
